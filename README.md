@@ -65,24 +65,6 @@ Here are some of the repositories based on my recent work in ML and Data Analysi
 
 ---
 
-### 📊 GitHub Statistics
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=GaneshArwan&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GaneshArwan's GitHub Stats" />
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshArwan&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GaneshArwan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
 <div align="center">
   <p>Thanks for visiting! Feel free to check out my repositories.</p>
 </div>
