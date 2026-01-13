@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Hi%20there,%20I'm%20Ganesh%20Arwan!&fontSize=70&fontColor=58a6ff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Hi!&fontSize=70&fontColor=58a6ff&animation=fadeIn&fontAlignY=35" width="100%"/>
   
   <h3>👨‍💻 Data Scientist | Machine Learning Engineer | Big Data Specialist</h3>
   
