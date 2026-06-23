@@ -1,70 +1,109 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Hi!&fontSize=70&fontColor=58a6ff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Hi,%20I'm%20William!&fontSize=70&fontColor=58a6ff&animation=fadeIn&fontAlignY=35" width="100%"/>
   
-  <h3>👨‍💻 Data Scientist | Machine Learning Engineer | Big Data Specialist</h3>
+  <h2 align="center">👨‍💻 AI Engineer & Full-Stack Developer</h2>
   
-  <p>
-    <em>Specializing in Predictive Analytics, Apache Spark, and Enterprise Automation.</em>
+  <p align="center">
+    <em>Specializing in Generative AI, Multi-Agent Systems, Next.js, and Data Science.</em>
   </p>
 
-  <a href="https://github.com/GaneshArwan">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:wiliamzwili135+github@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/william-oo00/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <p align="center">
+    <a href="https://github.com/GaneshArwan">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="mailto:wiliamzwili135+github@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/william-oo00/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
 </div>
 
 <br />
 
----
+### 🚀 About Me
 
-### 🧐 About Me
+I am a passionate software developer and AI engineer focused on pushing the boundaries of what's possible with **Generative AI** and **Machine Learning**. My recent work revolves around building robust **Multi-Agent Systems**, LLM orchestration pipelines, and highly interactive Full-Stack applications using **Next.js** and **TypeScript**.
 
-I am a software developer and data specialist focused on turning raw data into actionable insights. My work spans from building **Big Data pipelines with Apache Spark** to developing custom **Machine Learning models** for classification and regression.
-
-- 🔭 I’m currently working on **Enterprise Process Automation & KPI Dashboards**.
-- 🌱 I’m currently deepening my knowledge in **Advanced Neural Networks**.
-- 👯 I’m looking to collaborate on **Open Source Data Science projects**.
-- 💬 Ask me about **Python, SQL, K-Means Clustering, and Predictive Modeling**.
+- 🔭 I’m currently building **AI Agents** and **LLM Orchestration Platforms** (LangChain, LangGraph).
+- 🌱 I’m currently deep-diving into **Advanced RAG Architectures** and **Multi-Model Pipelines** (Gemini, Claude, OpenAI).
+- 🧠 My background includes **Data Science**, **Predictive Modeling**, and **Enterprise Automation**.
+- 💬 Ask me about **Next.js, TypeScript, AI Integrations, or Python Data Analysis**.
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,python,nextjs,react,nodejs,tailwind,mysql,postgres,mongodb,docker,git" />
+  </a>
+</p>
 
 <div align="center">
 
-| **Core Languages** | **Machine Learning** | **Big Data & DB** | **Tools & Frameworks** |
-|:---:|:---:|:---:|:---:|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br> ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) <br> ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![Apache Spark](https://img.shields.io/badge/Apache_Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) <br> ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) <br> ![Kivy](https://img.shields.io/badge/Kivy-000?style=for-the-badge&logo=kivy&logoColor=white) |
+| **AI & Machine Learning** | **Frontend & Backend** | **Data & Tools** |
+|:---:|:---:|:---:|
+| LangChain, LangGraph, RAG <br> OpenAI, Gemini, Anthropic APIs <br> Scikit-Learn, Pandas, Numpy | TypeScript, Next.js, React <br> Node.js, Express <br> Tailwind CSS | MySQL, PostgreSQL <br> Docker, Git <br> Jupyter, Apache Spark |
 
 </div>
 
 ---
 
-### 🚀 Featured Projects
+### ⚡ Featured AI & Engineering Projects
 
-Here are some of the repositories based on my recent work in ML and Data Analysis:
+<table>
+  <tr>
+    <td width="50%">
+      <b>🤖 <a href="https://github.com/GaneshArwan/AIContentPipeline">AIContentPipeline</a></b><br/>
+      A Next.js and LangChain content orchestration platform. Features a state-aware, multi-model (Gemini, OpenAI, Anthropic, Local) pipeline using a secure Client-Side BYOK architecture.
+    </td>
+    <td width="50%">
+      <b>🕵️‍♂️ <a href="https://github.com/GaneshArwan/AICodeReviewAgent">AICodeReviewAgent</a></b><br/>
+      An autonomous code review platform that analyzes GitHub pull requests using LangGraph.js and large language models for deep insights.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <b>🎙️ <a href="https://github.com/GaneshArwan/VoiceAIAssistant">VoiceAIAssistant</a></b><br/>
+      A high-performance, real-time voice-interactive application engineered for fluid, natural conversation.
+    </td>
+    <td width="50%">
+      <b>📄 <a href="https://github.com/GaneshArwan/AIResumeCVAnalyzer">AIResumeCVAnalyzer</a></b><br/>
+      Pro-level AI Resume & CV Analyzer with multi-provider support. High-performance comparative analysis and deep keyword gap insights.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <b>⚡ <a href="https://github.com/GaneshArwan/MultiModelAI">MultiModelAI</a></b><br/>
+      The High-Performance Benchmarking Suite and Agent Workflow Environment for Generative AI.
+    </td>
+    <td width="50%">
+      <b>🧠 <a href="https://github.com/GaneshArwan/RAGChat">RAGChat</a></b><br/>
+      High-Performance Stateless Context-Augmentation & Retrieval Infrastructure.
+    </td>
+  </tr>
+</table>
 
-#### 🧠 Machine Learning & Data Science
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **ML Regression & Classification** | A comprehensive collection of models including **Linear, Polynomial, and Logistic Regression**, as well as **Naive Bayes** and **Decision Trees**. | `Python` `Scikit-Learn` |
-| **Indonesia GHG Emissions** | An environmental data analysis project clustering provinces based on Greenhouse Gas emissions. | `K-Means` `Data Analysis` |
-| **Wine Quality & Bike Sharing** | Predictive modeling using real-world datasets to determine quality metrics and demand forecasting. | `Pandas` `Regression` |
+---
 
-#### ⚡ Big Data & Automation
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Apache Spark Implementations** | Distributed computing projects focusing on Regression, Clustering, and large-scale **Recommendation Systems**. | `Apache Spark` `Big Data` |
-| **Enterprise KPI Dashboard** | A business intelligence tool designed to visualize key performance indicators and automate reporting processes. | `Dashboarding` `Automation` |
-| **Rock-Paper-Scissors AI** | A game development project utilizing **Neural Networks** for pattern recognition. | `Deep Learning` `Game Dev` |
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GaneshArwan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshArwan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GaneshArwan&theme=tokyonight&hide_border=true&background=0d1117" width="100%" />
+</div>
 
 ---
 
 <div align="center">
-  <p>Thanks for visiting! Feel free to check out my repositories.</p>
+  <p>Thanks for visiting! Feel free to reach out or check out my repositories. 🚀</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%"/>
 </div>
