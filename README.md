@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Hi,%20I'm%20William!&fontSize=70&fontColor=58a6ff&animation=fadeIn&fontAlignY=35" width="100%"/>
   
-  <h2 align="center">👨‍💻 AI Engineer & Full-Stack Developer</h2>
+  <h2 align="center">👨‍💻 AI/ML Engineer & Data Analyst</h2>
   
   <p align="center">
     <em>Specializing in Generative AI, Multi-Agent Systems, Next.js, and Data Science.</em>
