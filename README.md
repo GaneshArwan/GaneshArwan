@@ -1,109 +1,32 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Hi,%20I'm%20William!&fontSize=70&fontColor=58a6ff&animation=fadeIn&fontAlignY=35" width="100%"/>
-  
-  <h2 align="center">👨‍💻 AI/ML Engineer & Data Analyst</h2>
-  
-  <p align="center">
-    <em>Specializing in Generative AI, Multi-Agent Systems, Next.js, and Data Science.</em>
-  </p>
+# William
 
-  <p align="center">
-    <a href="https://github.com/GaneshArwan">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="mailto:wiliamzwili135+github@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://www.linkedin.com/in/william-oo00/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </p>
-</div>
+AI/ML Engineer & Data Analyst building multi-agent workflows, LLM orchestration pipelines, predictive models, and full-stack web applications with Python, TypeScript, and Next.js.
 
-<br />
-
-### 🚀 About Me
-
-I am a passionate software developer and AI engineer focused on pushing the boundaries of what's possible with **Generative AI** and **Machine Learning**. My recent work revolves around building robust **Multi-Agent Systems**, LLM orchestration pipelines, and highly interactive Full-Stack applications using **Next.js** and **TypeScript**.
-
-- 🔭 I’m currently building **AI Agents** and **LLM Orchestration Platforms** (LangChain, LangGraph).
-- 🌱 I’m currently deep-diving into **Advanced RAG Architectures** and **Multi-Model Pipelines** (Gemini, Claude, OpenAI).
-- 🧠 My background includes **Data Science**, **Predictive Modeling**, and **Enterprise Automation**.
-- 💬 Ask me about **Next.js, TypeScript, AI Integrations, or Python Data Analysis**.
+[GitHub](https://github.com/GaneshArwan) · [LinkedIn](https://www.linkedin.com/in/william-oo00/) · [wiliamzwili135+github@gmail.com](mailto:wiliamzwili135+github@gmail.com)
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## Focus
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,python,nextjs,react,nodejs,tailwind,mysql,postgres,mongodb,docker,git" />
-  </a>
-</p>
+I build application-layer AI systems, machine learning pipelines, and data analytics tools, alongside full-stack web interfaces.
 
-<div align="center">
+- **Agent orchestration:** Multi-step agent workflows and tool-use pipelines using LangChain and LangGraph.
+- **Retrieval & multi-model routing:** Context-augmentation (RAG) systems and unified interfaces across Gemini, Claude, OpenAI, and local models.
+- **Data science & full-stack engineering:** Predictive modeling and data analysis in Python, Scikit-Learn, Pandas, and Apache Spark; web applications in Next.js and TypeScript.
 
-| **AI & Machine Learning** | **Frontend & Backend** | **Data & Tools** |
-|:---:|:---:|:---:|
-| LangChain, LangGraph, RAG <br> OpenAI, Gemini, Anthropic APIs <br> Scikit-Learn, Pandas, Numpy | TypeScript, Next.js, React <br> Node.js, Express <br> Tailwind CSS | MySQL, PostgreSQL <br> Docker, Git <br> Jupyter, Apache Spark |
+## Selected Projects
 
-</div>
+| Project | Summary | Stack |
+| :--- | :--- | :--- |
+| [AIContentPipeline](https://github.com/GaneshArwan/AIContentPipeline) | Content orchestration platform with a state-aware pipeline across Gemini, OpenAI, Anthropic, and local models using client-side BYOK authentication. | Next.js, LangChain, TypeScript |
+| [AICodeReviewAgent](https://github.com/GaneshArwan/AICodeReviewAgent) | Automated pull request reviewer that inspects GitHub diffs with LangGraph.js and large language models. | LangGraph.js, TypeScript, GitHub API |
+| [VoiceAIAssistant](https://github.com/GaneshArwan/VoiceAIAssistant) | Real-time voice-interactive assistant for low-latency spoken conversations. | TypeScript, Web Audio, LLM APIs |
+| [AIResumeCVAnalyzer](https://github.com/GaneshArwan/AIResumeCVAnalyzer) | Resume and CV evaluator with multi-provider LLM support for side-by-side comparison and keyword gap analysis. | Next.js, TypeScript, Multi-LLM |
+| [MultiModelAI](https://github.com/GaneshArwan/MultiModelAI) | Benchmarking suite and agent workflow environment for comparing generative AI models across prompts and tasks. | TypeScript, Next.js, LLM APIs |
+| [RAGChat](https://github.com/GaneshArwan/RAGChat) | Stateless retrieval-augmented generation and context-injection backend for document chat. | TypeScript, Vector Search, RAG |
 
----
+## Technical Stack
 
-### ⚡ Featured AI & Engineering Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <b>🤖 <a href="https://github.com/GaneshArwan/AIContentPipeline">AIContentPipeline</a></b><br/>
-      A Next.js and LangChain content orchestration platform. Features a state-aware, multi-model (Gemini, OpenAI, Anthropic, Local) pipeline using a secure Client-Side BYOK architecture.
-    </td>
-    <td width="50%">
-      <b>🕵️‍♂️ <a href="https://github.com/GaneshArwan/AICodeReviewAgent">AICodeReviewAgent</a></b><br/>
-      An autonomous code review platform that analyzes GitHub pull requests using LangGraph.js and large language models for deep insights.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <b>🎙️ <a href="https://github.com/GaneshArwan/VoiceAIAssistant">VoiceAIAssistant</a></b><br/>
-      A high-performance, real-time voice-interactive application engineered for fluid, natural conversation.
-    </td>
-    <td width="50%">
-      <b>📄 <a href="https://github.com/GaneshArwan/AIResumeCVAnalyzer">AIResumeCVAnalyzer</a></b><br/>
-      Pro-level AI Resume & CV Analyzer with multi-provider support. High-performance comparative analysis and deep keyword gap insights.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <b>⚡ <a href="https://github.com/GaneshArwan/MultiModelAI">MultiModelAI</a></b><br/>
-      The High-Performance Benchmarking Suite and Agent Workflow Environment for Generative AI.
-    </td>
-    <td width="50%">
-      <b>🧠 <a href="https://github.com/GaneshArwan/RAGChat">RAGChat</a></b><br/>
-      High-Performance Stateless Context-Augmentation & Retrieval Infrastructure.
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GaneshArwan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshArwan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GaneshArwan&theme=tokyonight&hide_border=true&background=0d1117" width="100%" />
-</div>
-
----
-
-<div align="center">
-  <p>Thanks for visiting! Feel free to reach out or check out my repositories. 🚀</p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%"/>
-</div>
+- **AI, ML & Data:** LangChain, LangGraph, RAG, OpenAI / Gemini / Anthropic APIs, Scikit-Learn, Pandas, NumPy, Apache Spark, Jupyter
+- **Web & Backend:** Python, TypeScript, JavaScript, Next.js, React, Node.js, Express, Tailwind CSS
+- **Databases & Infrastructure:** PostgreSQL, MySQL, MongoDB, Docker, Git
