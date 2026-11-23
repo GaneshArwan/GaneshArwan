@@ -2,7 +2,7 @@
 
 AI/ML Engineer & Data Analyst building multi-agent workflows, LLM orchestration pipelines, predictive models, and full-stack web applications with Python, TypeScript, and Next.js.
 
-[GitHub](https://github.com/GaneshArwan) · [LinkedIn](https://www.linkedin.com/in/william-oo00/) · [Gmail](mailto:wiliamzwili135+github@gmail.com)
+[Gmail](mailto:wiliamzwili135+github@gmail.com)
 
 ---
 
